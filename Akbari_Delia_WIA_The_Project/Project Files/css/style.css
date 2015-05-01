@@ -1,0 +1,172 @@
+html, body, #about,#contact , #services {
+  height:100%;
+}
+
+#resources{
+	height:150%;
+}
+
+
+#home{
+	height:130%;
+}
+
+
+#faq {
+	height:300%;
+}
+
+
+#paragraphs{
+	width:70%;
+	margin:50px;
+}
+
+
+
+#home, #about, #faq, #contact, #services, #resources {padding-top:2em;}
+
+#mainNav {
+  color: #234545;
+  line-height:1.5em;
+  background-color:white;
+  position:fixed; 
+  top: 0em; 
+  width:100%; 
+  font-family:impact;
+  text-align:right;
+  a, a:link, a:visited, a:hover, a:active {
+  color:#eee; 
+  text-decoration:none;
+  display:inline-block;
+  padding:0 1em;
+  }
+  
+  a:hover {
+	  color: #4c2122;
+  }
+}
+
+h2 {
+	font-size:3em; 
+	font-weight:normal;
+	padding-top:1.5em; 
+	text-align:left;
+	font-family:century gothic;
+	}
+
+#home {background-color:#fff;}
+#about {background-color:#2e897b;}
+#faq {background-color:#aeb695;}
+#contact {background-color:#f3eab3;}
+#services{
+	background-color:#65a4a4;
+}
+#resources{
+	background-color:#77ce77;
+}
+
+
+a.link1:link, a.link1:visited, a.link1:active{ 
+  background-color:#d2d2d2;
+  margin:1px;
+  padding-right:2px;
+  padding-top:2px;
+  padding-bottom:2px;
+  padding-left:7px;
+  color:#111111;
+  font-family:century gothic;
+  font-size:11pt;
+  line-height:9pt;
+  font-weight:normal;
+  text-decoration:none;
+  font-weight:normal;
+  text-align:left;
+  display:block;
+  border-width:1px;
+  border-style:solid;
+  border-color:#a1a1a1;
+}
+
+a.link1:hover{ 
+  background-color:#4c2122;
+  margin:1px;
+  padding-right:2px;
+  padding-top:2px;
+  padding-bottom:2px;
+  padding-left:7px;
+  font-family:century gothic;
+  font-size:17pt;
+  line-height:13pt;
+  color:#fff;
+  font-weight:normal;
+  text-decoration:none;
+  font-weight:normal;
+  text-align:left;
+  display:block;
+  border-width:1px;
+  border-style:solid;
+  border-color:#a1a1a1;
+}
+
+
+
+a:link, a:visited, a:active{ 
+
+  margin:1px;
+  padding-right:2px;
+  padding-top:2px;
+  padding-bottom:0px;
+  padding-left:0px;
+  color:#111111;
+  font-family:century gothic;
+  font-size:12pt;
+  line-height:16px;
+  font-weight:normal;
+  text-decoration:none;
+  font-weight:normal;
+  text-align:left;
+  
+}
+
+a:hover{ 
+  background-color:#4c2122;
+  margin:1px;
+  padding-right:2px;
+  padding-top:2px;
+  padding-bottom:2px;
+  padding-left:7px;
+  font-family:century gothic;
+  font-size:12pt;
+  line-height:16pt;
+  color:#fff;
+  font-weight:normal;
+  text-decoration:none;
+  text-transform: uppercase;
+  font-weight:normal;
+  text-align:left;
+
+
+}
+
+
+button {
+	margin: 5px;
+}
+
+
+canvas {
+	border: dotted 1px black;
+}
+
+
+
+h3{
+	font-size:17pt;
+	border-bottom-color:#bbbbbb;
+border-bottom-width:1px;
+border-bottom-style:dashed;
+	width:300px;
+
+		
+}
